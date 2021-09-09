@@ -3,12 +3,12 @@
 The tasks of the assignment are given in the README within the repository.
 
 
-[C](https://classroom.github.com/a/vg8xrIuR)
+[C](https://classroom.github.com/a/dKwgM-Hg)
 
-[C++](https://classroom.github.com/a/xsrxSgM9)
+[C++](https://classroom.github.com/a/Y-A6y8kf)
 
-[C#](https://classroom.github.com/a/7H7uzYvf)
+[C#](https://classroom.github.com/a/0S0_1EWa)
 
-[Java](https://classroom.github.com/a/6NFhQoNP)
+[Java](https://classroom.github.com/a/LygigXQK)
 
 
