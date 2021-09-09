@@ -1,4 +1,4 @@
-## Welcome to Utthunga Clean Code 
---
+## Welcome to Utthunga Clean Code Workshop
+-----------------------------------------
 
 
