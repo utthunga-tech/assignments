@@ -1,6 +1,14 @@
 # Statistics with Unit Tests
 
-[C](https://github.com/clean-code-craft-tcq-1?q=statisact)
-[C++](https://github.com/clean-code-craft-tcq-1?q=statisact)
-[Java](https://github.com/clean-code-craft-tcq-1?q=statisact)
-[C#](https://github.com/clean-code-craft-tcq-1?q=statisact)
+The tasks of the assignment are given in the README within the repository.
+
+
+[C](https://classroom.github.com/a/vg8xrIuR)
+
+[C++](https://classroom.github.com/a/xsrxSgM9)
+
+[C#](https://classroom.github.com/a/7H7uzYvf)
+
+[Java](https://classroom.github.com/a/6NFhQoNP)
+
+
