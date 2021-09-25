@@ -45,6 +45,7 @@ to have in-cranium before you can make progress
 # Assignments
 
 ## Try It
+[Well-named small files](small.md)
 
 [stats-with-tests](stats-with-tests.md)
 
