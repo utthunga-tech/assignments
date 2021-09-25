@@ -18,13 +18,13 @@ Consider:
 
 ## Pick a language for your assignment
 
-[C](https://classroom.github.com/a/w_XIuFr9)
+[C](https://classroom.github.com/a/FbMsA69v)
 
-[C++](https://classroom.github.com/a/FYNuYC_B)
+[C++](https://classroom.github.com/a/QFB_F0mr)
 
-[C#](https://classroom.github.com/a/x_oGBLvq)
+[C#](https://classroom.github.com/a/BBN5dWyP)
 
-[Java](https://classroom.github.com/a/MQn13UkX)
+[Java](https://classroom.github.com/a/c6ds-j5X)
 
 
 
