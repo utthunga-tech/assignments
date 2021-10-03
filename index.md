@@ -45,9 +45,14 @@ to have in-cranium before you can make progress
 # Assignments
 
 ## Try It
+
+[Functional](functional.md)
+
 [Well-named small files](small.md)
 
 [stats-with-tests](stats-with-tests.md)
+
+
 
 ## Suggested weekly flow
 
