@@ -52,6 +52,10 @@ to have in-cranium before you can make progress
 
 [stats-with-tests](stats-with-tests.md)
 
+[Extend and Refactor Functionality](functional-extend.md)
+
+
+
 
 
 ## Suggested weekly flow
