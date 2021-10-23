@@ -6,7 +6,7 @@ The 'cleanliness' of the code goes down.
 
 The skill of refactoring keeps the code clean and fresh.
 
-This assignment is a continuation of the [previous one](bms-statement.md).
+This assignment is a continuation of the [previous one](functional.md).
 
 ## Extensions
 
