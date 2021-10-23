@@ -77,20 +77,5 @@ Each transformation is one function (or more).
 Do not mix different transformations in the same function.
 Have one function to chain ('compose') these transformation-functions.
 
-## Fresh Assignment - with "same old" starting-point
-
-[C](https://classroom.github.com/a/oT3763ql)
-
-[C++](https://classroom.github.com/a/DLdvNpl-)
-
-[C#](https://classroom.github.com/a/bmUQtxVu)
-
-[Java](https://classroom.github.com/a/yj7qNrEu)
-
-[Python](https://classroom.github.com/a/aiLG__Yz)
-
-## Alternative
-
-You could also extend your old repository without joining a new assignment.
-If you prefer that, please complete/merge the current Pull Request
-and create a new one
+## Fresh Assignment - with Same Old Repository
+Extend your old repository without joining a new assignment. 
