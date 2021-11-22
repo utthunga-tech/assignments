@@ -10,3 +10,4 @@ Multiple Inheritance is a feature of **object oriented concept, where a class ca
 
 [What is the Exact Problem With Multiple Inheritance](https://stackoverflow.com/questions/225929/what-is-the-exact-problem-with-multiple-inheritance)
 
+#### Refactor Below Multiple Inheritance using Principle and Patterns
