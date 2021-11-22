@@ -8,5 +8,5 @@ A design pattern is a generic, reusable solution to a set of problems that arise
 ---
 Multiple Inheritance is a feature of **object oriented concept, where a class can inherit properties of more than one parent class**
 
-[Refactor To Patterns](refactoring.md)
-[What is the Exact Problem With Multiple Inheritance]: https://stackoverflow.com/questions/225929/what-is-the-exact-problem-with-multiple-inheritance
+[What is the Exact Problem With Multiple Inheritance](https://stackoverflow.com/questions/225929/what-is-the-exact-problem-with-multiple-inheritance)
+
