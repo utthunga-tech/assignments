@@ -54,7 +54,7 @@ to have in-cranium before you can make progress
 
 [Extend and Refactor Functionality](functional-extend.md)
 
-[Refactor To Patterns](Refactoring.md)
+[Refactor To Patterns](refactoring.md)
 
 
 
