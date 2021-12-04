@@ -56,6 +56,8 @@ to have in-cranium before you can make progress
 
 [Refactor To Patterns](refactoring.md)
 
+[Assert for Confidence](unit-test.md)
+
 
 
 
