@@ -66,3 +66,12 @@ Allow multiple delimiters like this: `“//[delim1][delim2]\n”` for example `�
 Make sure you can also handle multiple delimiters with length longer than one char.
 
  for example  “//[**][%%]\n1**2%%3” == 6
+
+
+## Pick a language for your assignment
+
+.[C/C++](https://classroom.github.com/a/9EHC8Avp)
+
+.[C#](https://classroom.github.com/a/9EHC8Avp)
+
+.[Js](https://classroom.github.com/a/JrUQ8iUR)
