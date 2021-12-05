@@ -42,6 +42,15 @@ If there are multiple negatives, show all of them in the exception message.
 
 ## Step 6
 
+## Pick a language for your assignment
+
+[C/C++](https://classroom.github.com/a/9EHC8Avp)
+
+[C#](https://classroom.github.com/a/ChrUH1Yv)
+
+[Js](js https://classroom.github.com/a/JrUQ8iUR)
+
+
 Numbers bigger than 1000 should be ignored, so adding 2 + 1001 = 2
 
 ## Step 7
